@@ -1,0 +1,22 @@
+{
+  "name": "2.infinityscroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasPendleton/infinityScroller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasPendleton/infinityScroller/issues"
+  },
+  "homepage": "https://github.com/thomasPendleton/infinityScroller#readme",
+  "devDependencies": {
+    "sass": "^1.52.1"
+  }
+}
