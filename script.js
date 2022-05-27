@@ -2,7 +2,7 @@ const imageContainer = document.getElementById('image-container')
 const loader = document.getElementById('loader')
 
 // Unsplash API
-const count = 30
+const count = 20
 const apiKey = 'ARHf2wm3ZbYKpEgEoJqkwEFEhhWodcSElntHJVMbf8I'
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`
 
